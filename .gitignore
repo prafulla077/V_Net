@@ -1,3 +1,5 @@
 monalisa/
 *.h5
 *.nii.gz
+__pycache__/
+*.pyc
