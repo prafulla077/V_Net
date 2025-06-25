@@ -1,4 +1,6 @@
-monalisa/
+hmpt/
+OASIS_root/
+.gitignore
 *.h5
 *.nii.gz
 __pycache__/
